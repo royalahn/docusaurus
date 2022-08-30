@@ -1,4 +1,7 @@
 @import "../../static/css/fonts.css";
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap");
 
 :root {
   --ifm-color-primary: #2e8555;
@@ -10,7 +13,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 0.813rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: "Quicksand", "IBMPlexSansKR", sans-serif;
+  --ifm-font-family-base: "Cabin", "IBMPlexSansKR", sans-serif;
   --ifm-font-family-monospace: "Monaco", "Consolas", monospace;
   --ifm-font-size-base: 1rem;
 }
